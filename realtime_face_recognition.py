@@ -1,5 +1,4 @@
 import cv2
-from random import randrange
 
 # Load trained data
 trained_face_data = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
